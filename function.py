@@ -24,3 +24,8 @@ def multiply():
     y = 61
     print(x * y)
 multiply()
+
+def sonira():
+    x = 1
+    print(x)
+sonira()
