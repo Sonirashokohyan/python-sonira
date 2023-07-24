@@ -51,3 +51,9 @@ print(girls)
 
 girls = ["zahra", "khojesta", "marwa", "freshta"]
 print(girls[-1::-1])
+print(girls[-2:-5:-1])
+
+countries = ["afghanistan", "pakistan", "iran"]
+countries.append("china")
+print(countries)
+print(countries.index("iran"))
